@@ -1,8 +1,0 @@
-streamlit
-numpy
-tensorflow
-scikit-learn
-scipy
-plotly
-joblib
-gdown
